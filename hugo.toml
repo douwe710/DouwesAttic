@@ -1,6 +1,10 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
-title = "Douwe's Attic"
+title = "Douwe's Attic2"
 subtitle = "An uncurated collection"
 description = "An uncurated collection"
 theme = 'PaperMod'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
