@@ -1,6 +1,6 @@
 [submodule "hugo-PaperMod"]
 	path = hugo-PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod/
-[submodule "themes/PaperMod"]
-	path = themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod/
+[submodule "themes/blowfish_lite"]
+	path = themes/blowfish_lite
+	url = https://github.com/nunocoracao/blowfish_lite
