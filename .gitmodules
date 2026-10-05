@@ -5,3 +5,6 @@
 [submodule "themes/blowfish_lite"]
 	path = themes/blowfish_lite
 	url = https://github.com/nunocoracao/blowfish_lite
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish

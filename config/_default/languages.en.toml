@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Douwe's Attic"
+contentDir = 'content'
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  # logo = "img/logo.png"
+  description = ""
+  # copyright = "Copy, _right?_ :thinking_face:"
+  dateFormat = "2 January 2006"
+
+[params.author]
+  name = "Douwe's Attic"
+  # image = "img/avatar.png"
+  headline = "an Uncurated collection"
+  #  bio = "A little bit about you"
+  #  links = [
+  #    { link = "https://nunocoracao.github.io/blowfish/" },
+  #    { github = "https://github.com/nunocoracao/blowfish" },
+  #    { x-twitter = "https://twitter.com/burufugu" }
+  #  ]
